@@ -3,10 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.21203703703703702" />
+        <entry key="app/src/main/res/drawable/icone_transacao_item_despesa.xml" value="0.1145" />
+        <entry key="app/src/main/res/drawable/icone_transacao_item_receita.xml" value="0.1145" />
         <entry key="app/src/main/res/layout/activity_lista_transacoes.xml" value="0.3765625" />
         <entry key="app/src/main/res/layout/form_transacao.xml" value="0.3765625" />
         <entry key="app/src/main/res/layout/resumo_card.xml" value="0.3765625" />
-        <entry key="app/src/main/res/layout/transacao_item.xml" value="0.20989583333333334" />
+        <entry key="app/src/main/res/layout/transacao_item.xml" value="0.33" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2075" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2075" />
       </map>
